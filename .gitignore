@@ -1,0 +1,8 @@
+frameworks/cocos2d-html5/
+frameworks/cocos2d-x/
+res/
+frameworks/runtime-src/proj.ios_mac/
+frameworks/runtime-src/proj.win32/
+frameworks/runtime-src/proj.android-studio/app/.externalNativeBuild/
+simulator/
+frameworks/runtime-src/proj.linux/
